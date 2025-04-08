@@ -26,4 +26,6 @@ This repository contains processing codes and datasets for comparing observed da
 ## Code Description
 
 ### Main Scripts
-- Converts Doppler shifts to velocities and generates comparison plots
+- Converts Doppler shifts to velocities
+- Filters the observed data
+- Generates comparison plots
